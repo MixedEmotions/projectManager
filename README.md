@@ -6,6 +6,8 @@ This repository also includes example configuration files for the orchestrator a
 
 ## Usage
 
+You will need a compiled version of the MixedEmotions' orchestrator. You can compile one or download the latest version from the [releases tab](https://github.com/MixedEmotions/Orchestrator/releases) in that repository. 
+
 Edit `orchestrator_launcher.py` so it matches the routes of your configuration.
 Then create a proper configuration for the MixedEmotions' Orchestrator. There is an example structure in the `conf/` folder.
 There are example service configurations in the `conf/restServices` and `conf/dockerServices` folders.
